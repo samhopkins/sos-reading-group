@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## SoS+TCS Reading Group
 
-You can use the [editor on GitHub](https://github.com/samhopkins/sos-reading-group/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The SoS+TCS reading group is a once-monthly virtual reading group on recent papers in theoretical computer science, focusing primarily on the power and limitations of hierarchies of convex programs (like the *Sum of Squares hierarchy*) in algorithm design. We meet once per month, generally on the third Wednesday of the month.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We meet for 3 hour whiteboard/chalk/tablet talks, to allow lots of time for interaction and discussion with the speaker. **Everyone is welcome, and no question is too simple.** Contact the organizers to get on the mailing list for Zoom links.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+We ([Tselil](https://tselilschramm.org/) and [Sam](
 
 ```markdown
 Syntax highlighted code block
