@@ -1,37 +1,25 @@
 ## SoS+TCS Reading Group
 
-The SoS+TCS reading group is a once-monthly virtual reading group on recent papers in theoretical computer science, focusing primarily on the power and limitations of hierarchies of convex programs (like the *Sum of Squares hierarchy*) in algorithm design. We meet once per month, generally on the third Wednesday of the month.
+The SoS+TCS reading group is a once-monthly virtual reading group on recent papers in theoretical computer science, focusing primarily on the power and limitations of hierarchies of convex programs (like the *Sum of Squares hierarchy*) in algorithm design.
 
-We meet for 3 hour whiteboard/chalk/tablet talks, to allow lots of time for interaction and discussion with the speaker. **Everyone is welcome, and no question is too simple.** Contact the organizers to get on the mailing list for Zoom links.
+**Format:** We meet for 3 hour whiteboard/chalk/tablet talks, to allow lots of time for interaction and discussion with the speaker. Sessions will have 1-2 coffe breaks. **Everyone is welcome, and no question is too simple.** We are inspired by the old [MIT/MSR Reading Group](http://people.csail.mit.edu/madry/reading-group/). Contact the organizers to get on the mailing list for Zoom links.
 
+3 hours is a long time. It is **not rude** to leave at the first break, or even before.
 
+**Date and Time:** By default, the 3rd Wednesday of every month, from 9am-12pm Pacific time. Schedule may vary from month to month.
 
-We ([Tselil](https://tselilschramm.org/) and [Sam](
+**Organizers:** [Tselil Schramm](https://tselilschramm.org/) and [Sam Hopkins](http://www.samuelbhopkins.com/)
 
-```markdown
-Syntax highlighted code block
+### Schedule, Winter/Spring 2021
 
-# Header 1
-## Header 2
-### Header 3
+**January 20:**
 
-- Bulleted
-- List
+**February 17:**
 
-1. Numbered
-2. List
+**March 17:**
 
-**Bold** and _Italic_ and `Code` text
+**April 21:**
 
-[Link](url) and ![Image](src)
-```
+**May 19:**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samhopkins/sos-reading-group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**June 16:**
