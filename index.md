@@ -16,7 +16,7 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 
 **February 17:** [Madhur Tulsiani](https://ttic.uchicago.edu/~madhurt/) (TTIC)
 
-**March 17:** [Morris Yau] (UC Berkeley)
+**March 17:** Morris Yau (UC Berkeley)
 
 **April 21:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT)
 
