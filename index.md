@@ -12,13 +12,13 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 
 ### Schedule, Winter/Spring 2021
 
-**January 20:**
+**January 27 (note this is the 4th Wednesday):** [Mitali Bafna](https://mitalibafna.github.io/) (Harvard) and [Max Hopkins](http://cseweb.ucsd.edu/~nmhopkin/) (UCSD)
 
-**February 17:**
+**February 17:** [Madhur Tulsiani](https://ttic.uchicago.edu/~madhurt/) (TTIC)
 
-**March 17:**
+**March 17:** [Morris Yau] (UC Berkeley)
 
-**April 21:**
+**April 21:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT)
 
 **May 19:**
 
