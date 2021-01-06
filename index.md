@@ -16,10 +16,10 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 
 **February 17:** [Madhur Tulsiani](https://ttic.uchicago.edu/~madhurt/) (TTIC) on SoS algorithms and lower bounds for constraint satisfaction problems over high-dimensional expanders. 
 
-**March 17:** Morris Yau (UC Berkeley) on [Online and Distribution-Free Robustness](https://arxiv.org/abs/2010.04157).
+**March 17:** 
 
 **April 21:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT) on approximating partition functions.
 
 **May 19:**
 
-**June 16:**
+**June 16:** Morris Yau (UC Berkeley) on [Online and Distribution-Free Robustness](https://arxiv.org/abs/2010.04157).
