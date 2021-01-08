@@ -12,14 +12,14 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 
 ### Schedule, Winter/Spring 2021
 
-**January 27 (note this is the 4th Wednesday):** [Mitali Bafna](https://mitalibafna.github.io/) (Harvard) and [Max Hopkins](http://cseweb.ucsd.edu/~nmhopkin/) (UCSD) on SoS algorithms for Unique Games over certifiable small-set expanders and Johnson schemes.
+**January ~~27~~ *26* (note this is the 4th ~~Wednesday~~ *Tuesday*), 9am-12pm Pacific:** [Mitali Bafna](https://mitalibafna.github.io/) (Harvard) and [Max Hopkins](http://cseweb.ucsd.edu/~nmhopkin/) (UCSD) on SoS algorithms for Unique Games over certifiable small-set expanders and Johnson schemes. NOTE DATE CHANGE.
 
-**February 17:** [Madhur Tulsiani](https://ttic.uchicago.edu/~madhurt/) (TTIC) on SoS algorithms and lower bounds for constraint satisfaction problems over high-dimensional expanders. 
+**February 17, 9am-12pm Pacific:** [Madhur Tulsiani](https://ttic.uchicago.edu/~madhurt/) (TTIC) on SoS algorithms and lower bounds for constraint satisfaction problems over high-dimensional expanders. 
 
-**March 17:** 
+**March 17, 9am-12pm Pacific:** 
 
-**April 21:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT) on approximating partition functions.
+**April 21, 9am-12pm Pacific:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT) on approximating partition functions.
 
-**May 19:**
+**May 19, 9am-12pm Pacific:**
 
-**June 16:** Morris Yau (UC Berkeley) on [Online and Distribution-Free Robustness](https://arxiv.org/abs/2010.04157).
+**June 16, 9am-12pm Pacific:** Morris Yau (UC Berkeley) on [Online and Distribution-Free Robustness](https://arxiv.org/abs/2010.04157).
