@@ -16,7 +16,7 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 
 **February 17, 9am-12pm Pacific:** [Madhur Tulsiani](https://ttic.uchicago.edu/~madhurt/) (TTIC) on SoS algorithms and lower bounds for constraint satisfaction problems over high-dimensional expanders. 
 
-**March 17, 9am-12pm Pacific:** 
+**March 17, 9am-12pm Pacific:** [Daniel Kane](https://cseweb.ucsd.edu/~dakane/) (UC San Diego) on Small Covers for Near-Zero Sets of Polynomials and Learning Latent Variable Models.
 
 **April 21, 9am-12pm Pacific:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT) on approximating partition functions.
 
