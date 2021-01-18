@@ -15,7 +15,7 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 **January ~~27~~ *26* (note this is the 4th ~~Wednesday~~ *Tuesday*), 9am-12pm Pacific:** [Mitali Bafna](https://mitalibafna.github.io/) (Harvard) and [Max Hopkins](http://cseweb.ucsd.edu/~nmhopkin/) (UCSD) on SoS algorithms for Unique Games over certifiable small-set expanders and Johnson schemes. NOTE DATE CHANGE.
 
 <details>
-  <summary>*Abstract (click to expand)*</summary>
+  <summary><i>Abstract (click to expand)</i></summary>
   
     The Unique Games Conjecture (UGC) is a central open question in hardness of approximation which posits that it is NP-hard to distinguish between nearly satisfiable and highly unsatisfiable instances of a certain 2-variable constraint satisfaction problem called Unique Games (UG). 
 
