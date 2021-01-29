@@ -32,6 +32,21 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 
 **March ~~17~~ *18* (note this is the 4th ~~Wednesday~~ *Thursday*), 9am-12pm Pacific:** [Daniel Kane](https://cseweb.ucsd.edu/~dakane/) (UC San Diego) on Small Covers for Near-Zero Sets of Polynomials and Learning Latent Variable Models.
 
+<details>
+  <summary>Abstract (click to expand)</summary>
+  
+    <p>We present a new technique for learning latent variable
+models with many parameters. The basic idea is to use the method of
+moments to find a large vector space of polynomials which nearly
+vanish on all of the parameters of the problem and to use this along
+with a new structural result to find a small cover of the set of
+relevant parameters after which exhaustive algorithms can be applied.
+Using this technique we develop substantially improved algorithms for
+learning mixtures of spherical Gaussians, mixtures of linear
+regressions and non-negative linear combinations of ReLUs.</p>
+</details>
+
+
 **April 21, 9am-12pm Pacific:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT) on approximating partition functions.
 
 **May 19, 9am-12pm Pacific:**
