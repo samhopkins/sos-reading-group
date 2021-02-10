@@ -40,7 +40,7 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 <ul>
         <li> CSP instances on high-dimensional expanders are easy to approximate using $O(1)$ levels of the SoS hierarchy</li>
 
-        <li> Explicit CSP instances on high-dimensional expanders that are hard for $\Omega(\sqrt{log n})$ levels of the SoS hierarchy. </li>
+        <li> Explicit CSP instances on high-dimensional expanders that are hard for $\Omega(\sqrt{\log n})$ levels of the SoS hierarchy. </li>
         </ul>
 
 <p>We will discuss why both the above results are simultaneously true, using different notions of instances "on" high-dimensional expanders, and the expansion properties relevant for both results. Time permitting, we will also discuss some new structural results for expanding hypergraphs, which yield faster algorithms, bypassing the SoS hierarchy.</p>
