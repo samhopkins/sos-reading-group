@@ -1,3 +1,6 @@
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 ## SoS+TCS Reading Group
 
 The SoS+TCS reading group is a once-monthly virtual reading group on recent papers in theoretical computer science, focusing primarily on the power and limitations of hierarchies of convex programs (like the *Sum of Squares hierarchy*) in algorithm design.
@@ -35,9 +38,9 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
   
     <p>This talk will discuss some ways in which notions of expansion in hypergraphs (high-dimensional expansion) can be used to prove algorithmic as well as hardness results for the Sum-of-Squares SDP hierarchy. We plan to discuss two recent results related to Constraint Satisfaction Problems (CSPs) and the SoS hierarchy:</p>
 <ul>
-        <li> CSP instances on high-dimensional expanders are easy to approximate using O(1) levels of the SoS hierarchy</li>
+        <li> CSP instances on high-dimensional expanders are easy to approximate using $O(1)$ levels of the SoS hierarchy</li>
 
-        <li> Explicit CSP instances on high-dimensional expanders that are hard for \Omega(\sqrt{log n}) levels of the SoS hierarchy. </li>
+        <li> Explicit CSP instances on high-dimensional expanders that are hard for $\Omega(\sqrt{log n})$ levels of the SoS hierarchy. </li>
         </ul>
 
 <p>We will discuss why both the above results are simultaneously true, using different notions of instances "on" high-dimensional expanders, and the expansion properties relevant for both results. Time permitting, we will also discuss some new structural results for expanding hypergraphs, which yield faster algorithms, bypassing the SoS hierarchy.</p>
