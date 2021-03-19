@@ -50,7 +50,7 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
     </p>
 </details>
 
-**March ~~17~~ *18* (note this is the 4th ~~Wednesday~~ *Thursday*), 9am-12pm Pacific:** [Daniel Kane](https://cseweb.ucsd.edu/~dakane/) (UC San Diego) on Small Covers for Near-Zero Sets of Polynomials and Learning Latent Variable Models. [ [slides 1](slides/kane-1.pdf) ] [ [slides 2](slides/kane-2.pdf) ]
+**March ~~17~~ *18* (note this is the 4th ~~Wednesday~~ *Thursday*), 9am-12pm Pacific:** [Daniel Kane](https://cseweb.ucsd.edu/~dakane/) (UC San Diego) on Small Covers for Near-Zero Sets of Polynomials and Learning Latent Variable Models. slides 1](slides/kane-1.pdf)  [slides 2](slides/kane-2.pdf) 
 
 <details>
   <summary>Abstract (click to expand)</summary>
