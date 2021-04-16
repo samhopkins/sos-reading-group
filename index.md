@@ -59,7 +59,7 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 </details>
 
 
-**April 21, 9am-12pm Pacific:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT) on Approximating Partition Functions of Ising Models
+**April ~~21~~ 23, 9am-12pm Pacific:** [Fred Koehler](http://math.mit.edu/~fkoehler/) (MIT) on Approximating Partition Functions of Ising Models
 
 <details>
   <summary>Abstract (click to expand)</summary>
