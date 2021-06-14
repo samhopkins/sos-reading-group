@@ -69,4 +69,4 @@ The SoS+TCS reading group is a once-monthly virtual reading group on recent pape
 
 **May 19, 9am-12pm Pacific:**
 
-**June 16, 9am-12pm Pacific:** Morris Yau (UC Berkeley) on [Online and Distribution-Free Robustness](https://arxiv.org/abs/2010.04157).
+~~**June 16, 9am-12pm Pacific:** Morris Yau (UC Berkeley) on [Online and Distribution-Free Robustness](https://arxiv.org/abs/2010.04157).~~
